@@ -1,0 +1,2 @@
+# ASIC-Based-HCF-GCD-Finder-in-Verilog-Data-Path-FSM-Control-Flow
+Verilog-based ASIC design for computing the Highest Common Factor of two 8-bit input numbers. The design features modular hardware blocks including PIPO registers, comparator, subtractor, and multiplexers, forming the datapath and controlled by an FSM controller. The result is provided on a 16-bit output to accommodate all possible HCF values
